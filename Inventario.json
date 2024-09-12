@@ -1,0 +1,34 @@
+{
+    "inventario": [
+        {
+            "producto": "leche",
+            "precio": 100,
+            "stock": 9
+        },
+        {
+            "producto": "huevos",
+            "precio": 160,
+            "stock": 8
+        },
+        {
+            "producto": "azucar",
+            "precio": 70,
+            "stock": 25
+        },
+        {
+            "producto": "vainilla",
+            "precio": 40,
+            "stock": 14
+        },
+        {
+            "producto": "cafe",
+            "precio": 250,
+            "stock": 12
+        },
+        {
+            "producto": "harina",
+            "precio": 76,
+            "stock": 24
+        }
+    ]
+}
